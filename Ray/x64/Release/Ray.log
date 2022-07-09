@@ -1,0 +1,9 @@
+﻿  Ray.cpp
+F:\RayTracingInOneWeek\RayTracingInNextWeek\Ray\Ray\Ray.cpp(37,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\RayTracingInOneWeek\RayTracingInNextWeek\Ray\Ray\Ray.cpp(136,46): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\RayTracingInOneWeek\RayTracingInNextWeek\Ray\Ray\Ray.cpp(171,48): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 409 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Ray.vcxproj -> F:\RayTracingInOneWeek\RayTracingInNextWeek\Ray\x64\Release\Ray.exe
