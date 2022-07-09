@@ -1,1 +1,2 @@
 # MyRayTracingPractice
+这是个人用于练习的，基于GitHub项目RayTracingInOneWeekend系列项目的光线追踪渲染器项目
